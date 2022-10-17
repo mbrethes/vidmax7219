@@ -4,7 +4,7 @@
 
 This is released by Mathieu Brèthes under the [Lesser General Public License](LICENSE).
 
-The included font to display text is (c) [Nils Chertier](https://www.nilschertier.com/) and released under Creative Commons CC-BY. Check out his stuff, he's cool.
+The included font to display text has been adapted from [HomeTown 3](https://www.dafont.com/de/hometown-3.font) by [Aaron D. Chand](https://www.dafont.com/de/profile.php?user=926808).
 
 ## Disclaimer
 
