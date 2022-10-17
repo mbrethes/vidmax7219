@@ -1,0 +1,12 @@
+VidMax7219	KEYWORD1
+vidSetPower	KEYWORD2
+vidOn	KEYWORD2
+vidOff	KEYWORD2
+vidClear	KEYWORD2
+vidSwitchBuffers	KEYWORD2
+vidDrawImage	KEYWORD2
+vidPrintText	KEYWORD2
+vidPrintRotateInit	KEYWORD2
+vidPrintRotate	KEYWORD2
+vidGetPixel	KEYWORD2
+vidPutPixel	KEYWORD2
