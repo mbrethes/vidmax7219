@@ -20,7 +20,7 @@ This library allows a sketch to control a row of 4 8x8 led panels, for a total o
 
 It offers functions to display arbitrarily-sized images with 4 shades of red (with some flicker) at any location of the panel (including negative coordinates), to set or get the intensity of a pixel on the panel.
 
-The images are generated from GIF or palettized PNG files using the Python [helper tool gif2c](https://github.com/mbrethes/vidmax7219).
+The images are generated from GIF or palettized PNG files using the Python [helper tool gif2c](https://github.com/mbrethes/gif2c).
 
 It also has a function to display text with an included font, and a function to automatically rotate this text to the left forever.
 
